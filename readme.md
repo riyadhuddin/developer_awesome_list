@@ -22,12 +22,13 @@
 <br><b>Streamlit: (https://share.streamlit.io/)
 <br><b>Sagemaker Studio Lab: (https://studiolab.sagemaker.aws/)
 <br><b>DVC: (https://dvc.org/)
+<br><b>Layer: (https://beta.layer.co/)
 <br><b>Dask: (https://dask.org/)
 <br><b>Plotly: (https://plotly.com/)
 <br><b>Sci-kit: (https://scikit-learn.org/)
 <br><b>Pandas: (https://pandas.pydata.org/)
-<br><b>Layer: (https://beta.layer.co/)
 <br><b>tensorflow: (https://www.tensorflow.org/)
+<br><b> kubeflow: (https://www.kubeflow.org/)
 <br><b>keras: (https://keras.io/)
 <br><b>tfhub: (https://tfhub.dev/)
 <br><b>mindmeld: (https://www.mindmeld.com)
@@ -59,6 +60,7 @@
 <br><b>kubernetes: (https://kubernetes.io/)
 --------------------------------------------
 <br><b>Mongodb: (https://mongodb.com/)
+<br><b>GraphQ: (https://graphql.org/)
 <br><b>Hasura: (https://hasura.io/)
 <br><b>Saleor: (https://demo.saleor.io/graphql/)
 <br><b>Strapi: (https://strapi.io/)
@@ -73,5 +75,16 @@
 <br><b>Datadog: (https://app.datadoghq.com/dashboard/lists)
 <br><b>newrelic: (https://newrelic.com/)
 ---------------------------------------------
-Please let me know if you have any topic specific request.
-mail:<riyadh@iacdrops.xyz>
+<br><b> opensea: (https://opensea.io/)
+<br><b> polygon: (https://polygon.technology/)
+<br><b> alchemy: (https://www.alchemy.com/)
+<br><b> hardhat: (https://hardhat.org/)
+<br><b> metamask: (https://metamask.io/)
+<br><b> phantom: (https://phantom.app/)
+<br><b> solana: (https://solana.com/)
+<br><b> metaplex: (https://docs.metaplex.com/)
+<br><b> solsea: (https://solsea.io/)
+ ---------------------------------------------
+
+Please let me know if you have any topic specific request.<br>
+mail: <riyadh@iacdrops.xyz>
