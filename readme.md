@@ -13,6 +13,7 @@
 <br><b>Paypal: (https://developer.paypal.com)
 <br><b>Visa: (https://developer.visa.com/)
 <br><b>Postman: (https://postman.co)
+<br><b>Tiktok: (https://developers.tiktok.com/)
 ---------------------------------------------
 <br><b>Kaggle: (https://kaggle.com/)
 <br><b>Colab: (https://colab.research.google.com/)
@@ -40,12 +41,14 @@
 ---------------------------------------------
 <br><b>Replit: (https://replit.com/)
 <br><b>Stackblitz: (https://stackblitz.com/)
+<br><b>vscode dev: (https://vscode.dev/)
 <br><b>heroku: (https://dashboard.heroku.com/)
 <br><b>gatsby: (https://www.gatsbyjs.com/)
 <br><b>netlify: (https://app.netlify.com/)
 <br><b>npm: (https://www.npmjs.com/)
 <br><b>reactjs: (https://reactjs.org/)
 <br><b>docker: (https://hub.docker.com/)
+<br><b>JetBrain: (https://www.jetbrains.com/)
 ---------------------------------------------
 <br><b>ibm: (https://cloud.ibm.com/)
 <br><b>gcp: (https://cloud.google.com/)
