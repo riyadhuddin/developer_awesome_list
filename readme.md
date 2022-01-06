@@ -1,7 +1,6 @@
 # As a developer you should pin this for lifetime
 <br><b>GitHub: (https://github.com/settings/apps)
 <br><b>Twitter: (https://developer.twitter.com/en)
-<br><b>Huawei: (https://developer.huawei.com/en/)
 <br><b>Facebook: (https://developers.facebook.com/)
 <br><b>Cisco: (https://developer.cisco.com/)
 <br><b>LinkedIN: (https://developer.linkedin.com/)
