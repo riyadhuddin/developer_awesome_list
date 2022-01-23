@@ -7,8 +7,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 <!-- ## Table of Contents:
  -->
-|   |  Name | URL| Details|
-|---|---|---|---|
+|   |  Name | URL| Details|Docs|
+|---|---|---|---|---|
 <b> Developer dashboard
 |   |  GitHub | (https://github.com/settings/apps)  | You can automate things 
 |   | Facebook  |  (https://developers.facebook.com/) | Apps, Games, Ads, Media and lot more
