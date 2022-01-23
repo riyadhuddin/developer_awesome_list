@@ -1,10 +1,11 @@
-|   |  Name | URL| 
-|---|---|---|
-|   |  GitHub | (https://github.com/settings/apps)  | 
-|   | Facebook  |  (https://developers.facebook.com/) | 
-|   | Twitter  | (https://developer.twitter.com/en)  | 
-|   |Cisco   | (https://developer.cisco.com/)  | 
-|   |LinkedIN   | (https://developer.linkedin.com/)  | 
+|   |  Name | URL| Details|
+|---|---|---|---|
+<b> Mainstream Developer dashboard
+|   |  GitHub | (https://github.com/settings/apps)  | You can automate things 
+|   | Facebook  |  (https://developers.facebook.com/) | Apps, Games, Ads, Media and lot more
+|   | Twitter  | (https://developer.twitter.com/en)  | analyze, explore, interact
+|   |Cisco   | (https://developer.cisco.com/)  | start with webex and 
+|   |LinkedIN   | (https://developer.linkedin.com/)  | auth, interact
 |   |  discord | (https://discord.com/developers/applications)  | 
 |   | slack  |   (https://api.slack.com/) | 
 |   |  reddit | (https://www.reddit.com/dev/api/)  | 
