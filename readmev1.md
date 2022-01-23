@@ -38,6 +38,7 @@
  | |Intel |  (https://frontend.apps.cfa.devcloud.intel.com/#/my-library)
  | |openvino |  (https://docs.openvino.ai/latest/index.html#)
  | |pytorch |  (https://pytorch.org/)
+ <b> Development Tools
  | |anaconda |  (https://anaconda.cloud/)
  | |Replit |  (https://replit.com/)
  | |Stackblitz |  (https://stackblitz.com/)
@@ -49,6 +50,7 @@
  | |reactjs |  (https://reactjs.org/)
  | |docker |  (https://hub.docker.com/)
  | |JetBrain |  (https://www.jetbrains.com/)
+  <b> Cloud Computing
  | |ibm |  (https://cloud.ibm.com/)
  | |gcp |  (https://cloud.google.com/)
  | |aws |  (https://console.aws.amazon.com/console/home)
@@ -70,17 +72,21 @@
  | |Unity |  (https://assetstore.unity.com/)
  | |Rive |  (https://rive.app/)
  | |SparkAR |  (https://www.facebook.com/sparkarhub/dashboard)
+   <b> Ops
  | |Gremlin |  (https://app.gremlin.com/)
  | |Datadog |  (https://app.datadoghq.com/dashboard/lists)
  | |newrelic |  (https://newrelic.com/)
+   <b> Blockchain
  | | polygon |  (https://polygon.technology/)
  | | alchemy |  (https://www.alchemy.com/)
  | | hardhat |  (https://hardhat.org/)
  | | metaplex |  (https://docs.metaplex.com/) 
+   <b> Crypto Wallet
 || Solflare |  (https://solflare.com)
  | | metamask |  (https://metamask.io/)
  | | phantom |  (https://phantom.app/)
  | | solana |  (https://solana.com/)
+  <b> NFT Marketplace
 || opensea |  (https://opensea.io/)
  | | solsea |  (https://solsea.io/)
  | | Zora |  (https://zora.co/)
