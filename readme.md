@@ -85,15 +85,24 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 <br><b>Datadog: (https://app.datadoghq.com/dashboard/lists)
 <br><b>newrelic: (https://newrelic.com/)
 ---------------------------------------------
-<br><b> opensea: (https://opensea.io/)
+ ## Blockchain & NFT:
 <br><b> polygon: (https://polygon.technology/)
 <br><b> alchemy: (https://www.alchemy.com/)
 <br><b> hardhat: (https://hardhat.org/)
+<br><b> metaplex: (https://docs.metaplex.com/)
+ ### Wallet:
+<b> Solflare: (https://solflare.com)
 <br><b> metamask: (https://metamask.io/)
 <br><b> phantom: (https://phantom.app/)
 <br><b> solana: (https://solana.com/)
-<br><b> metaplex: (https://docs.metaplex.com/)
+ ### NFT Marketplace:
+<b> opensea: (https://opensea.io/)
 <br><b> solsea: (https://solsea.io/)
+<br><b> Zora: (https://zora.co/)
+<br><b> NFTfi: (https://nftfi.com)
+<br><b> enjin: (https://enjin.io) 
+<br><b> Rarible: (https://rarible.com/)
+<br><b> Foundation: (https://foundation.app/)
  ---------------------------------------------
 
 Please let me know if you have any topic specific request.<br>
