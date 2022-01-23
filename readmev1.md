@@ -1,6 +1,15 @@
+# As a developer you should pin this for lifetime
+[![Gitter](https://badges.gitter.im/iacdrop/community.svg)](https://gitter.im/iacdrop/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+A list of development dashboards and api urls for software developers to use regularly to build an application. These urls are divided into different situations.
+
+To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
+
+<!-- ## Table of Contents:
+ -->
 |   |  Name | URL| Details|
 |---|---|---|---|
-<b> Mainstream Developer dashboard
+<b> Developer dashboard
 |   |  GitHub | (https://github.com/settings/apps)  | You can automate things 
 |   | Facebook  |  (https://developers.facebook.com/) | Apps, Games, Ads, Media and lot more
 |   | Twitter  | (https://developer.twitter.com/en)  | analyze, explore, interact
