@@ -106,6 +106,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
  | | Foundation |  (https://foundation.app/)
  ---------------------------------------------
 
-Please let me know if you have any topic specific request.<br>
-mail |  <riyadh@iacdrops.xyz>
-<br><i>portfolio |  (https://riyadhuddin.netlify.app)
+<b> Please let me know if you have any topic specific request.<br>
+ | | |
+   |---|---|
+|mail |  <riyadh@iacdrops.xyz>|
+|<i>portfolio |  (https://riyadhuddin.netlify.app)
